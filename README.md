@@ -11,13 +11,12 @@ Este repositório foi criado para efeito de estudo nos seguintes cursos ofertado
 - :white_check_mark: Introdução ao GitHub e comandos para trabalhar em equipe. 
 - :white_check_mark: Criando um repositório para seus projetos inovadores.
 
-<p align="center"><b>
+<p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#conhecimento">Conhecimentos adquiridos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#agradecimentos">Agradecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</b>
 </p>
 
 ## :rocket: Tecnologias
