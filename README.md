@@ -4,12 +4,13 @@ Curso de Introdução ao Git e GitHub
 </h1>
 <p>
 Este repositório foi criado para efeito de estudo nos seguintes cursos ofertados gratuitamente pela <b>Digital Innovation One</b>:
-
 <b>
 
 - :white_check_mark: Introdução ao Git e Controle de Versões.
 - :white_check_mark: Introdução ao GitHub e comandos para trabalhar em equipe. 
 - :white_check_mark: Criando um repositório para seus projetos inovadores.
+
+</b>
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
