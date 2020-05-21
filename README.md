@@ -101,6 +101,7 @@ Exemplo de como colocar um trecho de código em JavaScript no README.md:
   });
 ```
 ```
+
 O resultado será:
 
 ```javascript
