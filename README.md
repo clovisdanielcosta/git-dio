@@ -99,10 +99,11 @@ Exemplo de como colocar um trecho de código em JavaScript no README.md:
       });
     }
   });
-```
+  ...
 ```
 
 O resultado será:
+
 
 ```javascript
   // Função para recolher o menu quando clicar na página sem escolher nenhuma opção
