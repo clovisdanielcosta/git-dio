@@ -41,7 +41,7 @@ Foram adquiridos novos conhecimentos neste projeto, entre eles:
 
 - Linus Torvalds, pai do Linux, também foi o criador do Git.
 - Git não é a mesma coisa que GitHub.
-- Sensacional: como editar mais facilmente o README.md dos reposítórios no Git Hub.
+- Sensacional: como editar mais facilmente o README.md dos reposítórios no GitHub.
 - Como colocar trechos de código no README.md.
 
 </b>
@@ -59,7 +59,7 @@ Dito de modo simples:
 
 ### 2. Editando mais facilmente o README.md
 
-- Para editar mais facilmente o README.md do projeto pode se usar o MD Editor online no site:
+- Para editar mais facilmente o README.md do projeto pode se usar online o MD Editor no site:
 
 [https://pandao.github.io/editor.md/en.html](https://pandao.github.io/editor.md/en.html)
 
@@ -75,10 +75,33 @@ Por exemplo, se quiser adicionar o emoji de foguete comumente usado do GitHub pa
 ````markdown
  :rocket: Tecnologias
 ````
+O resultado será:
+
+ :rocket: Tecnologias
 
 ### 4. Colocando trecho de código no README.md
 
 Exemplo de como colocar um trecho de código em JavaScript no README.md:
+
+```javascript
+```javascript
+  // Função para recolher o menu quando clicar na página sem escolher nenhuma opção
+  $(document).on('click', function(event){
+    var $clickedOn = $(event.target),
+    $collapsableItems = $('.collapse'),
+    isToggleButton = ($clickedOn.closest('.navbar-toggle').length == 1),
+    isLink = ($clickedOn.closest('#navToggle').length == 1),
+    isOutsideNavbar = ($clickedOn.parents('.navbar').length == 0);
+    
+    if( (!isToggleButton && isLink) || isOutsideNavbar ) {
+      $collapsableItems.each(function(){
+        $(this).collapse('hide');
+      });
+    }
+  });
+```
+```
+O resultado será:
 
 ```javascript
   // Função para recolher o menu quando clicar na página sem escolher nenhuma opção
@@ -105,4 +128,4 @@ Quero agradecer imensamente aos listados abaixo pelas contribuições para o meu
 - Carlos Levir
 - Rocketseat
 
-Muito obrigado! :simple_smile::clap::clap:
+Muito obrigado!:clap::clap:
