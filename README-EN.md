@@ -3,7 +3,7 @@
 Course Introduction to Git And GitHub
 </h1>
 
-[Traduzir: Português](./README-EN.md)
+Traduzir: [Português](./README.md)
 
 <p>
 Este repositório foi criado para efeito de estudo nos seguintes cursos ofertados gratuitamente pela <b>Digital Innovation One</b>:
