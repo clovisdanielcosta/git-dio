@@ -3,8 +3,6 @@
 Curso de Introdução ao Git e GitHub
 </h1>
 
-Translate: [English](./README-EN.md)
-
 <p>
 Este repositório foi criado para efeito de estudo nos seguintes cursos ofertados gratuitamente pela <b>Digital Innovation One</b>:
 <b>
