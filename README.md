@@ -132,4 +132,4 @@ Quero agradecer imensamente aos listados abaixo pelas contribuições para o meu
 
 Muito obrigado!:clap::clap:
 
-- [English]("./src/README-EN.md")
+- [English](./src/README-EN.md)
