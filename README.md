@@ -2,6 +2,7 @@
 <h1 align="center">
 Curso de Introdução ao Git e GitHub
 </h1>
+[English](./README-EN.md)
 <p>
 Este repositório foi criado para efeito de estudo nos seguintes cursos ofertados gratuitamente pela <b>Digital Innovation One</b>:
 <b>
@@ -131,5 +132,3 @@ Quero agradecer imensamente aos listados abaixo pelas contribuições para o meu
 - Rocketseat
 
 Muito obrigado!:clap::clap:
-
-- [English](./src/README-EN.md)
