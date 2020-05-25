@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Curso de Introdução ao Git e GitHub
+Course Introduction to Git And GitHub
 </h1>
 <p>
 Este repositório foi criado para efeito de estudo nos seguintes cursos ofertados gratuitamente pela <b>Digital Innovation One</b>:
@@ -131,5 +131,3 @@ Quero agradecer imensamente aos listados abaixo pelas contribuições para o meu
 - Rocketseat
 
 Muito obrigado!:clap::clap:
-
-- [English](https://www.github.com/clovisdanielcosta/git-dio/README-EN.md)
