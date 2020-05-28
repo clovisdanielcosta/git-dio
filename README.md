@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Curso de Introdução ao Git e GitHub
+:small_red_triangle_down: Curso de Introdução ao Git e GitHub
 </h1>
 
 <p>
